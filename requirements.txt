@@ -16,4 +16,4 @@ XlsxWriter==3.1.9
 Django==4.0.0
 djangorestframework==3.12.0
 gunicorn==20.1.0
-
+ninja==1.11.1.3
